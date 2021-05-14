@@ -2,7 +2,7 @@
 
 As the tech stacks are becoming more and more complex and business is moving at a fast pace, DevOps Teams worldwide are turning to the communication tools like Slack and Discord to stay productive. Collabnix community is coming together to list out the top 100 active Slack and discord channels for DevOps engineer like you.
 
-![Worldle](Screenshot%202021-05-14%20at%2011.54.04%20AM.png)
+![Worldle](devopschatroom.png)
 
 ## Curated List of Channels (in alphebetical order)
 
