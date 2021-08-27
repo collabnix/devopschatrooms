@@ -8,14 +8,14 @@ As the tech stacks are becoming more and more complex and business is moving at 
 
 | Community  | Slack | Discord |
 | ------------- | ------------- | ------------- | 
-| CNCF | https://slack.cncf.io/ (official) | N/A |
-| Collabnix | https://launchpass.com/collabnix (Official) | N/A |
-| Docker   | https://dockercommunity.slack.com (Official)  | https://discord.gg/CVBzBtdY (Unofficial) |
-| Kubernetes  | https://slack.k8s.io/ (Official)  | N/A |
-| KubeDaily | N/A | https://discord.gg/rEvr7vq (Official) | 
-| OpenFaas | https://tinyurl.com/openfaas (official) | N/A |
-| Portainer | https://tinyurl.com/portainer (Official) | N/A |
-| Redis | N/A | https://discord.gg/redis (Official)|
-| Rancher | https://slack.rancher.io/ (official) | N/A |
-| Shipa | https://tinyurl.com/shipaio (Official) | N/A |
-| Thanos | [#thanos-dev(CNCF)](https://slack.cncf.io/) (Official) | N/A | 
+| [CNCF](https://cncf.io) | https://slack.cncf.io/ (official) | N/A |
+| [Collabnix](https://www.collabnix.com) | https://launchpass.com/collabnix (Official) | N/A |
+| [Docker](https://docker.com)   | https://dockercommunity.slack.com (Official)  | https://discord.gg/CVBzBtdY (Unofficial) |
+| [Kubernetes](https://www.kubernetes.dev/)  | https://slack.k8s.io/ (Official)  | N/A |
+| [KubeDaily](https://www.containerlabs.kubedaily.com/) | N/A | https://discord.gg/rEvr7vq (Official) | 
+| [OpenFaas](https://openfaas.com) | https://tinyurl.com/openfaas (official) | N/A |
+| [Portainer](https://portainer.io) | https://tinyurl.com/portainer (Official) | N/A |
+| [Redis](https://developer.redis.com) | N/A | https://discord.gg/redis (Official)|
+| [Rancher](https://rancher.com) | https://slack.rancher.io/ (official) | N/A |
+| [Shipa](https://shipa.io) | https://tinyurl.com/shipaio (Official) | N/A |
+| [Thanos](https://thanos.io) | [#thanos-dev(CNCF)](https://slack.cncf.io/) (Official) | N/A | 
