@@ -15,6 +15,7 @@ As the tech stacks are becoming more and more complex and business is moving at 
 | KubeDaily | N/A | https://discord.gg/rEvr7vq (Official) | 
 | OpenFaas | https://tinyurl.com/openfaas (official) | N/A |
 | Portainer | https://tinyurl.com/portainer (Official) | N/A |
+| Redis | N/A | https://discord.gg/redis (Official)|
 | Rancher | https://slack.rancher.io/ (official) | N/A |
 | Shipa | https://tinyurl.com/shipaio (Official) | N/A |
 | Thanos | [#thanos-dev(CNCF)](https://slack.cncf.io/) (Official) | N/A | 
