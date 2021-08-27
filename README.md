@@ -8,9 +8,15 @@ As the tech stacks are becoming more and more complex and business is moving at 
 
 | Community  | Slack | Discord |
 | ------------- | ------------- | ------------- | 
+| [All Day DevOps](https://www.alldaydevops.com) | https://alldaydevops.slack.com (official) | N/A |
+| [Azure Stack Blog]() | https://azurestackblog.slack.com (official) | N/A |
 | [CNCF](https://cncf.io) | https://slack.cncf.io/ (official) | N/A |
 | [Collabnix](https://www.collabnix.com) | https://launchpass.com/collabnix (Official) | N/A |
 | [Docker](https://docker.com)   | https://dockercommunity.slack.com (Official)  | https://discord.gg/CVBzBtdY (Unofficial) |
+| [Devlio DevChat]() | https://devolio-devchat.slack.com (Official) | N/A | 
+| [DevOps Chat](https://devopschat.co) | https://devopschat.slack.com (Official) | N/A | 
+| [DevOps Engineers](https://www.devopsengineers.com) | https://devopsengineers.slack.com (Official) | N/A | 
+| [HangOps]() | https://hangops.slack.com (Official) | N/A | 
 | [Kubernetes](https://www.kubernetes.dev/)  | https://slack.k8s.io/ (Official)  | N/A |
 | [KubeDaily](https://www.containerlabs.kubedaily.com/) | N/A | https://discord.gg/rEvr7vq (Official) | 
 | [OpenFaas](https://openfaas.com) | https://tinyurl.com/openfaas (official) | N/A |
@@ -18,4 +24,6 @@ As the tech stacks are becoming more and more complex and business is moving at 
 | [Redis](https://developer.redis.com) | N/A | https://discord.gg/redis (Official)|
 | [Rancher](https://rancher.com) | https://slack.rancher.io/ (official) | N/A |
 | [Shipa](https://shipa.io) | https://tinyurl.com/shipaio (Official) | N/A |
+| [SweetOps](https://sweetops.com) | https://sweetops.slack.com (Official) | N/A | 
 | [Thanos](https://thanos.io) | [#thanos-dev(CNCF)](https://slack.cncf.io/) (Official) | N/A | 
+
