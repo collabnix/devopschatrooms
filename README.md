@@ -27,4 +27,5 @@ As the tech stacks are becoming more and more complex and business is moving at 
 | [Shipa](https://shipa.io) | https://tinyurl.com/shipaio (Official) | N/A |
 | [SweetOps](https://sweetops.com) | https://sweetops.slack.com (Official) | N/A | 
 | [Thanos](https://thanos.io) | [#thanos-dev(CNCF)](https://slack.cncf.io/) (Official) | N/A | 
+| [Bret Fisher's Vital DevOps](https://devops.fan) | N/A | https://discord.gg/CXvdcE66vw |
 
