@@ -19,7 +19,7 @@ As the tech stacks are becoming more and more complex and business is moving at 
 | [DevOps Engineers](https://www.devopsengineers.com) | https://devopsengineers.slack.com (Official) | N/A | 
 | [HangOps]() | https://hangops.slack.com (Official) | N/A | 
 | [Kubernetes](https://www.kubernetes.dev/)  | https://slack.k8s.io/ (Official)  | N/A |
-| [KubeDaily](https://www.containerlabs.kubedaily.com/) | N/A | https://discord.gg/rEvr7vq (Official) | 
+| [KubeDaily](https://www.kubedaily.live) | N/A | https://discord.gg/rEvr7vq (Official) | 
 | [OpenFaas](https://openfaas.com) | https://tinyurl.com/openfaas (official) | N/A |
 | [Portainer](https://portainer.io) | https://tinyurl.com/portainer (Official) | N/A |
 | [Redis](https://developer.redis.com) | N/A | https://discord.gg/redis (Official)|
@@ -28,4 +28,4 @@ As the tech stacks are becoming more and more complex and business is moving at 
 | [SweetOps](https://sweetops.com) | https://sweetops.slack.com (Official) | N/A | 
 | [Thanos](https://thanos.io) | [#thanos-dev(CNCF)](https://slack.cncf.io/) (Official) | N/A | 
 | [Bret Fisher's Vital DevOps](https://devops.fan) | N/A | https://discord.gg/CXvdcE66vw |
-
+| [The Rawkode Academy ](https://discord.gg/f4FBMcH8) | N/A | https://discord.gg/f4FBMcH8 | 
