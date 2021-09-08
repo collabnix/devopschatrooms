@@ -29,3 +29,4 @@ As the tech stacks are becoming more and more complex and business is moving at 
 | [Thanos](https://thanos.io) | [#thanos-dev(CNCF)](https://slack.cncf.io/) (Official) | N/A | 
 | [Bret Fisher's Vital DevOps](https://devops.fan) | N/A | https://discord.gg/CXvdcE66vw |
 | [The Rawkode Academy ](https://discord.gg/f4FBMcH8) | N/A | https://discord.gg/f4FBMcH8 | 
+| [Layer5](https://layer5.io/) | https://layer5io.slack.com (official) | N/A |
