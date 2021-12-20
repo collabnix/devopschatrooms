@@ -17,6 +17,7 @@ As the tech stacks are becoming more and more complex and business is moving at 
 | [Devlio DevChat]() | https://devolio-devchat.slack.com (Official) | N/A | 
 | [DevOps Chat](https://devopschat.co) | https://devopschat.slack.com (Official) | N/A | 
 | [DevOps Engineers](https://www.devopsengineers.com) | https://devopsengineers.slack.com (Official) | N/A | 
+| [Datadog](https://www.datadoghq.com/) | https://chat.datadoghq.com/(Official) | N/A |
 | [HangOps]() | https://hangops.slack.com (Official) | N/A | 
 | [Kubernetes](https://www.kubernetes.dev/)  | https://slack.k8s.io/ (Official)  | N/A |
 | [KubeDaily](https://www.kubedaily.live) | N/A | https://discord.gg/rEvr7vq (Official) | 
