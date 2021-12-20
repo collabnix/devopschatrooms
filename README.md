@@ -18,16 +18,18 @@ As the tech stacks are becoming more and more complex and business is moving at 
 | [DevOps Chat](https://devopschat.co) | https://devopschat.slack.com (Official) | N/A | 
 | [DevOps Engineers](https://www.devopsengineers.com) | https://devopsengineers.slack.com (Official) | N/A | 
 | [Datadog](https://www.datadoghq.com/) | https://chat.datadoghq.com/(Official) | N/A |
+| [Grafana](https://grafana.com) | https://slack.grafana.com/ (official) | N/A |
+
 | [HangOps]() | https://hangops.slack.com (Official) | N/A | 
-| [Kubernetes](https://www.kubernetes.dev/)  | https://slack.k8s.io/ (Official)  | N/A |
-| [KubeDaily](https://www.kubedaily.live) | N/A | https://discord.gg/rEvr7vq (Official) | 
+| [Kubernetes](https://www.kubernetes.dev/)  | https://slack.k8s.io/ (official)  | N/A |
+| [KubeDaily](https://www.kubedaily.live) | N/A | https://discord.gg/rEvr7vq (official) | 
 | [OpenFaas](https://openfaas.com) | https://tinyurl.com/openfaas (official) | N/A |
-| [Portainer](https://portainer.io) | https://tinyurl.com/portainer (Official) | https://discord.com/invite/j8fVken (Official) |
+| [Portainer](https://portainer.io) | https://tinyurl.com/portainer (o fficial) | https://discord.com/invite/j8fVken (Official) |
 | [Redis](https://developer.redis.com) | N/A | https://discord.gg/redis (Official)|
 | [Rancher](https://rancher.com) | https://slack.rancher.io/ (official) | N/A |
-| [Shipa](https://shipa.io) | https://tinyurl.com/shipaio (Official) | N/A |
-| [SweetOps](https://sweetops.com) | https://sweetops.slack.com (Official) | N/A | 
-| [Thanos](https://thanos.io) | [#thanos-dev(CNCF)](https://slack.cncf.io/) (Official) | N/A | 
+| [Shipa](https://shipa.io) | https://tinyurl.com/shipaio (official) | N/A |
+| [SweetOps](https://sweetops.com) | https://sweetops.slack.com (official) | N/A | 
+| [Thanos](https://thanos.io) | [#thanos-dev(CNCF)](https://slack.cncf.io/) (official) | N/A | 
 | [Bret Fisher's Vital DevOps](https://devops.fan) | N/A | https://discord.gg/CXvdcE66vw |
 | [The Rawkode Academy ](https://discord.gg/f4FBMcH8) | N/A | https://discord.gg/f4FBMcH8 | 
 | [Layer5](https://layer5.io/) | https://layer5io.slack.com (official) | N/A |
