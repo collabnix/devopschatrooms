@@ -11,22 +11,23 @@ As the tech stacks are becoming more and more complex and business is moving at 
 | [All Day DevOps](https://www.alldaydevops.com) | https://alldaydevops.slack.com (official) | N/A |
 | [Azure Stack Blog]() | https://azurestackblog.slack.com (official) | N/A |
 | [CNCF](https://cncf.io) | https://slack.cncf.io/ (official) | N/A |
-| [Collabnix](https://www.collabnix.com) | https://launchpass.com/collabnix (Official) | N/A |
-| [Devtron](https://devtron.ai/) | N/A | https://discord.com/invite/jsRG5qx2gp (Official) |
-| [Docker](https://docker.com)   | https://dockercommunity.slack.com (Official)  | https://discord.gg/CVBzBtdY (Unofficial) |
-| [Devlio DevChat]() | https://devolio-devchat.slack.com (Official) | N/A | 
-| [DevOps Chat](https://devopschat.co) | https://devopschat.slack.com (Official) | N/A | 
-| [DevOps Engineers](https://www.devopsengineers.com) | https://devopsengineers.slack.com (Official) | N/A | 
+| [Collabnix](https://www.collabnix.com) | https://launchpass.com/collabnix (official) | N/A |
+| [Devtron](https://devtron.ai/) | N/A | https://discord.com/invite/jsRG5qx2gp (or fficial) |
+| [Docker](https://docker.com)   | https://dockercommunity.slack.com (official)  | https://discord.gg/CVBzBtdY (Unofficial) |
+| [Devlio DevChat]() | https://devolio-devchat.slack.com (I official) | N/A | 
+| [DevOps Chat](https://devopschat.co) | https://devopschat.slack.com (official) | N/A | 
+| [DevOps Engineers](https://www.devopsengineers.com) | https://devopsengineers.slack.com (official) | N/A | 
+| [Grafana](https://grafana.com) | https://slack.grafana.com/ (official) | N/A |
 | [HangOps]() | https://hangops.slack.com (Official) | N/A | 
-| [Kubernetes](https://www.kubernetes.dev/)  | https://slack.k8s.io/ (Official)  | N/A |
-| [KubeDaily](https://www.kubedaily.live) | N/A | https://discord.gg/rEvr7vq (Official) | 
+| [Kubernetes](https://www.kubernetes.dev/)  | https://slack.k8s.io/ (official)  | N/A |
+| [KubeDaily](https://www.kubedaily.live) | N/A | https://discord.gg/rEvr7vq (official) | 
 | [OpenFaas](https://openfaas.com) | https://tinyurl.com/openfaas (official) | N/A |
-| [Portainer](https://portainer.io) | https://tinyurl.com/portainer (Official) | https://discord.com/invite/j8fVken (Official) |
+| [Portainer](https://portainer.io) | https://tinyurl.com/portainer (o fficial) | https://discord.com/invite/j8fVken (Official) |
 | [Redis](https://developer.redis.com) | N/A | https://discord.gg/redis (Official)|
 | [Rancher](https://rancher.com) | https://slack.rancher.io/ (official) | N/A |
-| [Shipa](https://shipa.io) | https://tinyurl.com/shipaio (Official) | N/A |
-| [SweetOps](https://sweetops.com) | https://sweetops.slack.com (Official) | N/A | 
-| [Thanos](https://thanos.io) | [#thanos-dev(CNCF)](https://slack.cncf.io/) (Official) | N/A | 
+| [Shipa](https://shipa.io) | https://tinyurl.com/shipaio (official) | N/A |
+| [SweetOps](https://sweetops.com) | https://sweetops.slack.com (official) | N/A | 
+| [Thanos](https://thanos.io) | [#thanos-dev(CNCF)](https://slack.cncf.io/) (official) | N/A | 
 | [Bret Fisher's Vital DevOps](https://devops.fan) | N/A | https://discord.gg/CXvdcE66vw |
 | [The Rawkode Academy ](https://discord.gg/f4FBMcH8) | N/A | https://discord.gg/f4FBMcH8 | 
 | [Layer5](https://layer5.io/) | https://layer5io.slack.com (official) | N/A |
