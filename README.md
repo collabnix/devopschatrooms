@@ -19,12 +19,12 @@ As the tech stacks are becoming more and more complex and business is moving at 
 | [DevOps Engineers](https://www.devopsengineers.com) | https://devopsengineers.slack.com (Official) | N/A | 
 | [Datadog](https://www.datadoghq.com/) | https://chat.datadoghq.com/(Official) | N/A |
 | [Grafana](https://grafana.com) | https://slack.grafana.com/ (official) | N/A |
-
 | [HangOps]() | https://hangops.slack.com (Official) | N/A | 
 | [Kubernetes](https://www.kubernetes.dev/)  | https://slack.k8s.io/ (official)  | N/A |
 | [KubeDaily](https://www.kubedaily.live) | N/A | https://discord.gg/rEvr7vq (official) | 
 | [OpenFaas](https://openfaas.com) | https://tinyurl.com/openfaas (official) | N/A |
-| [Portainer](https://portainer.io) | https://tinyurl.com/portainer (o fficial) | https://discord.com/invite/j8fVken (Official) |
+| [Prometheus](https://prometheus.io/) |  https://slack.cncf.io/ | N/A |
+| [Portainer](https://portainer.io) | https://tinyurl.com/portainer (Official) | https://discord.com/invite/j8fVken (Official) |
 | [Redis](https://developer.redis.com) | N/A | https://discord.gg/redis (Official)|
 | [Rancher](https://rancher.com) | https://slack.rancher.io/ (official) | N/A |
 | [Shipa](https://shipa.io) | https://tinyurl.com/shipaio (official) | N/A |
