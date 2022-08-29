@@ -23,6 +23,7 @@ As the tech stacks are becoming more and more complex and business is moving at 
 | [Kubernetes](https://www.kubernetes.dev/)  | https://slack.k8s.io/ (official)  | N/A |
 | [KubeDaily](https://www.kubedaily.live) | N/A | https://discord.gg/rEvr7vq (official) | 
 | [OpenFaas](https://openfaas.com) | https://tinyurl.com/openfaas (official) | N/A |
+| [Open-Source-Chandigarh]() | N/A | https://discord.gg/Q9gSAZDpNq (official) |
 | [Prometheus](https://prometheus.io/) |  https://slack.cncf.io/ | N/A |
 | [Portainer](https://portainer.io) | https://tinyurl.com/portainer (Official) | https://discord.com/invite/j8fVken (Official) |
 | [Redis](https://developer.redis.com) | N/A | https://discord.gg/redis (Official)|
