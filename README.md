@@ -11,7 +11,7 @@ As the tech stacks are becoming more and more complex and business is moving at 
 | [All Day DevOps](https://www.alldaydevops.com) | https://alldaydevops.slack.com (official) | N/A |
 | [Azure Stack Blog]() | https://azurestackblog.slack.com (official) | N/A |
 | [CNCF](https://cncf.io) | https://slack.cncf.io/ (official) | N/A |
-| [Collabnix](https://www.collabnix.com) | https://launchpass.com/collabnix (Official) | N/A |
+| [Collabnix](https://www.collabnix.com) | https://launchpass.com/collabnix (Official) | [Official Discord](https://discord.gg/9YCEye6E4M) |
 | [Devtron](https://devtron.ai/) | N/A | https://discord.com/invite/jsRG5qx2gp (Official) |
 | [Docker](https://docker.com)   | https://dockercommunity.slack.com (Official)  | https://discord.gg/CVBzBtdY (Unofficial) |
 | [Devlio DevChat]() | https://devolio-devchat.slack.com (Official) | N/A | 
