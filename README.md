@@ -34,3 +34,4 @@ As the tech stacks are becoming more and more complex and business is moving at 
 | [Bret Fisher's Vital DevOps](https://devops.fan) | N/A | https://discord.gg/CXvdcE66vw |
 | [The Rawkode Academy ](https://discord.gg/f4FBMcH8) | N/A | https://discord.gg/f4FBMcH8 | 
 | [Layer5](https://layer5.io/) | https://layer5io.slack.com (official) | N/A |
+| [gopaddle](https://gopaddle.io/) | [https://gopaddleio.slack.com](https://join.slack.com/t/gopaddleio/shared_invite/zt-1l73p8wfo-vYk1XcbLAZMo9wcV_AChvg) (official) | N/A |
