@@ -19,6 +19,7 @@ As the tech stacks are becoming more and more complex and business is moving at 
 | [DevOps Engineers](https://www.devopsengineers.com) | https://devopsengineers.slack.com (Official) | N/A | 
 | [Datadog](https://www.datadoghq.com/) | https://chat.datadoghq.com/(Official) | N/A |
 | [Grafana](https://grafana.com) | https://slack.grafana.com/ (official) | N/A |
+| [Gopaddle](https://gopaddle.io/) | [https://gopaddleio.slack.com](https://join.slack.com/t/gopaddleio/shared_invite/zt-1l73p8wfo-vYk1XcbLAZMo9wcV_AChvg) (official) | N/A |
 | [HangOps]() | https://hangops.slack.com (Official) | N/A | 
 | [Kubernetes](https://www.kubernetes.dev/)  | https://slack.k8s.io/ (official)  | N/A |
 | [KubeDaily](https://www.kubedaily.live) | N/A | https://discord.gg/rEvr7vq (official) | 
@@ -34,4 +35,3 @@ As the tech stacks are becoming more and more complex and business is moving at 
 | [Bret Fisher's Vital DevOps](https://devops.fan) | N/A | https://discord.gg/CXvdcE66vw |
 | [The Rawkode Academy ](https://discord.gg/f4FBMcH8) | N/A | https://discord.gg/f4FBMcH8 | 
 | [Layer5](https://layer5.io/) | https://layer5io.slack.com (official) | N/A |
-| [gopaddle](https://gopaddle.io/) | [https://gopaddleio.slack.com](https://join.slack.com/t/gopaddleio/shared_invite/zt-1l73p8wfo-vYk1XcbLAZMo9wcV_AChvg) (official) | N/A |
